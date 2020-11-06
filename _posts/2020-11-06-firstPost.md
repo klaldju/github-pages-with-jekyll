@@ -1,4 +1,3 @@
-
 ---
 title: "Quantum for All"
 date: 2020-11-06
